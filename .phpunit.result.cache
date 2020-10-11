@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":227:{a:2:{s:7:"defects";a:2:{s:34:"PostTest::test_add_commnet_to_post";i:4;s:30:"PostTest::testAddCommentToPost";i:3;}s:5:"times";a:2:{s:34:"PostTest::test_add_commnet_to_post";d:0.009;s:30:"PostTest::testAddCommentToPost";d:0.01;}}}
